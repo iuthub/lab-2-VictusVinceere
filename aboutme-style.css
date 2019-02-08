@@ -2,8 +2,19 @@ body {color: #272727; background: #efefef url(images/bg.png);}
 h1 {border-bottom: 1px dashed #ccc; color: purple; font-family: Lucida Console, Monaco, monospace;}
 .main{	width: 900px;}
 .one { width: 600px; float:right; margin: 20px 10px 10px ; }
-h2 {margin-top: 35px;}
-.double{style="border:3px double #620572;}
+
 p { font-family: Verdana, Arial, sans-serif;
     color: #333;
-    font-size: 13px; }
+    font-size: 16px; }
+
+li{ font-family: Verdana, Arial, sans-serif;
+    color: #333;
+    font-size: 16px; }
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
